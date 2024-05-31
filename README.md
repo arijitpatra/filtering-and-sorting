@@ -38,7 +38,7 @@ Screenshot:
 
 ![screenshot](Screenshot.png)
 
-See it live: https://arijitpatra.in/signavio-bmw/
+See it live: [https://arijitpatra.in/signavio-bmw/](https://arijitpatra.in/filtering-and-sorting)
 
 Thoughts:
 
