@@ -2,7 +2,7 @@ import { convertStringToTimestamp } from "./convertStringToTimestamp";
 
 describe("convertStringToTimestamp utility function", () => {
   it("should return correct timestamp in milliseconds when a valid dd-mm-yyyy string is passed", () => {
-    const expectedTimestamp = 1353366000000;
+    const expectedTimestamp = 1353369600000;
     const actualTimestamp = convertStringToTimestamp("20-11-2012");
     expect(actualTimestamp).toBe(expectedTimestamp);
   });
