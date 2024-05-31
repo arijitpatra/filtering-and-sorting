@@ -1,0 +1,11 @@
+.search {
+  font-family: inherit;
+  padding: 0.25rem;
+  border-radius: 3px;
+  border: 1px solid var(--colorGray);
+
+  &:focus {
+    border-color: transparent;
+    outline: 1px solid var(--colorBlue);
+  }
+}

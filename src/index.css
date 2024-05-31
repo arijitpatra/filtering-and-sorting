@@ -1,0 +1,17 @@
+body {
+  --font-size: 14px;
+  --color: rgba(0, 0, 0, 0.75);
+  --colorGray: rgba(192, 192, 192, 1);
+  --colorRed: rgb(238, 40, 14);
+  --colorBlue: rgb(0, 166, 237, 1);
+
+  margin: 0;
+  padding: 0;
+  font-family: "Figtree", system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color: var(--color);
+}
+
+* {
+  box-sizing: border-box;
+}
