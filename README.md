@@ -32,8 +32,6 @@ yarn test
 
 ## 📝 Design decisions and feedback
 
-_Here you can leave any comments about your design decisions, further instructions and comments as well as feedback._
-
 Screenshot:
 
 ![screenshot](Screenshot.png)
