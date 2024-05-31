@@ -78,4 +78,3 @@ Thoughts:
 
 18. Mobile UI has not been considered for the current scope of work.
 
-Enjoyed working on the challenge... thank you! 😊
